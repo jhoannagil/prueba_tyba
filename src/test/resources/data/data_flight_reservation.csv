@@ -1,0 +1,3 @@
+id;filterId;flightType;departurePlace;destinationPlace;startDate;endDate;addAHotel;addACar;checkInDate;checkOutDate;preferredClass
+1;Roundtrip;Roundtrip;Medellin (MDE - Jose Maria Cordova Intl.);Bogota (BOG - El Dorado Intl.);May 2, 2022;May 7, 2022;false;false;;;Premium economy
+2;with Add a place tsereo stay;Roundtrip;Medellin (MDE - Jose Maria Cordova Intl.);Bogota (BOG - El Dorado Intl.);Mar 2, 2021;Mar 7, 2021;true;false;;;Premium economy
